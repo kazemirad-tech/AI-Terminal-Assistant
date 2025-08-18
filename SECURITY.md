@@ -1,27 +1,29 @@
 # Security Policy
 
-Thank you for helping us keep this project secure 🙏  
-If you discover a vulnerability, please follow the steps below.
+This project is currently under active development and not yet deployed in production.  
+However, we take security seriously and welcome responsible disclosures.
 
-## 🛡️ Reporting a Vulnerability
+## 🛡️ Reporting Vulnerabilities
 
-Please report security issues privately via email:
+If you discover a potential security issue in the codebase or design, please report it privately via email:
 
 📧 m.h.kazemi.rad@gmail.com
 
-(If possible, use PGP encryption for sensitive information)
+(Encrypted reports via PGP are appreciated but not required)
 
-We aim to respond within 3 business days and investigate within 7 days.
+## 🚧 Status
 
-## 🚫 Please Do Not
+- No production deployment yet  
+- All execution is local and sandboxed  
+- No external API calls or network dependencies
 
-- Disclose vulnerabilities publicly via GitHub Issues  
-- Perform destructive testing on live systems
-
-## ✅ After Receiving Your Report
+## 🤝 Disclosure Process
 
 We will:
 
-- Verify and assess the issue  
-- Provide a fix or mitigation  
-- Credit you appropriately (if desired)
+- Acknowledge your report within 3 business days  
+- Review and assess the issue  
+- Apply fixes before public release  
+- Credit you if desired
+
+## 🙏 Thanks
