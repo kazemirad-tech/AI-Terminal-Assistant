@@ -14,10 +14,11 @@ This project provides secure, offline-friendly AI support for developers and sys
 Coming soon...
 
 ## 🚀 Demo
-See [`demo/steps.md`](demo/steps.md) for usage examples and screenshots.
+See [Demo](docs/demo/steps.md) for usage examples and screenshots.
 
 ## 📚 Documentation
-Detailed architecture and design decisions are available in [`docs/architecture.md`](docs/architecture.md).
+Detailed architecture and design decisions are available in [Demo](docs/demo/steps.md)
+
 
 ---
 
